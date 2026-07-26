@@ -1,6 +1,5 @@
 #  About Me:
- Code can build software. Intelligence can change the world.<br><br>I focus on Artificial Intelligence to create systems that learn, evolve, and solve meaningful problems. Through Machine Learning, Deep Learning, NLP, Computer Vision, and Quantum AI, I aim to engineer technology that moves beyond automation toward real impact.
-
+ Code can build software. Intelligence can change the world.
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kotipallidinesh2006@gmail.com) 
