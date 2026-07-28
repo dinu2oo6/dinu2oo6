@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&pause=1400&color=8B949E&center=true&vCenter=true&width=760&height=48&lines=Kotipalli+Dinesh+Sai;AI%2FML+Researcher+%C2%B7+Systems+Architect;I+build+machines+that+perceive%2C+reason%2C+and+act." alt="Kotipalli Dinesh Sai" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&pause=1500&color=8B949E&center=true&vCenter=true&width=740&height=45&lines=hey%2C+I'm+Dinesh;AI+enthusiast%2C+mostly;new+tech+drops+%E2%86%92+I'm+already+cloning+the+repo" alt="hey, I'm Dinesh" />
 
-<br>
-
-**`ATTENTION`**`  ·  `**`X`**
-
-<sub>Code can build software. Intelligence can change the world.</sub>
+<sub>`ATTENTION` · `X`</sub>
 
 <br>
 
@@ -18,46 +14,39 @@
 
 ---
 
-```console
-$ whoami --verbose
-
-  name        Kotipalli Dinesh Sai
-  role        AI/ML Researcher · Full-stack Engineer
-  lab         attentionxlabs
-  thesis      intelligence is an architecture problem, not a scale problem
-  building    perception → reasoning → action, end to end
-  status      shipping
-```
-
----
-
-<div align="center">
-
-### ◈ &nbsp;What I'm Working On&nbsp; ◈
-
-</div>
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td valign="top" width="58%">
 
-**Perception**
+I got into AI because it looked like magic. Turned out to be math, and I stayed anyway.
 
-Vision models that read the real world — medical imaging, diagnostics, and the messy data in between.
+Most weeks I'm reading a paper I only half understand, then trying to build a small version of it before the hype moves on. I don't have a single niche — if it's new and it learns something, I'm probably already messing with it.
+
+**Into**
+
+- 🧠 anything that learns
+- 🤖 agents, memory, retrieval
+- 👁️ computer vision
+- 📄 papers I have to re-read twice
+- 🧪 tiny weekend prototypes
+- 🌙 loss curves at 2am
+- ☕ frameworks I absolutely do not need
+
+**I use**
+
+`python` · `pytorch` · `c` · `c++` · `typescript`
+`fastapi` · `next.js` · `docker` · `supabase`
+
+**Currently poking at**
+
+- agent stacks that keep a plan instead of guessing
+- putting a model somewhere it's actually useful
+- whatever dropped this week
 
 </td>
-<td width="33%" valign="top">
+<td valign="top" width="42%">
 
-**Reasoning**
-
-LLM systems with memory, retrieval, and tools. Agents that hold a plan instead of guessing.
-
-</td>
-<td width="33%" valign="top">
-
-**Action**
-
-The unglamorous half: APIs, pipelines, and interfaces that put a model in someone's hands.
+<img src="assets/simpsons.gif" width="100%" alt="simpsons" />
 
 </td>
 </tr>
@@ -71,8 +60,6 @@ The unglamorous half: APIs, pipelines, and interfaces that put a model in someon
 
 <br>
 
-**Intelligence**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-0B0B0B?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0B0B?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-0B0B0B?style=for-the-badge&logo=keras&logoColor=white)
@@ -80,15 +67,11 @@ The unglamorous half: APIs, pipelines, and interfaces that put a model in someon
 ![Pandas](https://img.shields.io/badge/Pandas-0B0B0B?style=for-the-badge&logo=pandas&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0B0B0B?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Systems**
-
+![Python](https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-0B0B0B?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0B0B0B?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0B?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-0B0B0B?style=for-the-badge&logo=swift&logoColor=white)
-
-**Surface**
 
 ![Next.js](https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0B0B0B?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -96,9 +79,7 @@ The unglamorous half: APIs, pipelines, and interfaces that put a model in someon
 ![Flask](https://img.shields.io/badge/Flask-0B0B0B?style=for-the-badge&logo=flask&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-0B0B0B?style=for-the-badge&logo=express&logoColor=white)
 
-**Storage & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/Supabase-0B0B0B?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0B0B0B?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0B0B0B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0B0B0B?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -111,22 +92,38 @@ The unglamorous half: APIs, pipelines, and interfaces that put a model in someon
 
 <div align="center">
 
-### ◈ &nbsp;Selected Work&nbsp; ◈
+### ◈ &nbsp;Stuff I've Built&nbsp; ◈
 
 </div>
 
-| | Project | What it is |
+| | Project | |
 |:--|:--|:--|
-| `01` | **[singularity-1](https://github.com/dinu2oo6/singularity-1)** · `TypeScript` | Where the agent stack lives — reasoning, memory, tools. |
-| `02` | **[campusruleai](https://github.com/dinu2oo6/campusruleai)** · `Python` | An LLM that actually knows the rulebook, and cites it. |
-| `03` | **[skin-disease-analysis](https://github.com/dinu2oo6/skin-disease-analysis)** · `Python` | Deep-learning classification on dermatological imaging. |
-| `04` | **[cafemanager](https://github.com/dinu2oo6/cafemanager)** · `Swift` | Native iOS, because sometimes the model isn't the point. |
+| `01` | **[singularity-1](https://github.com/dinu2oo6/singularity-1)** · `TypeScript` | agent stack — reasoning, memory, tools |
+| `02` | **[campusruleai](https://github.com/dinu2oo6/campusruleai)** · `Python` | an LLM that actually knows the rulebook |
+| `03` | **[skin-disease-analysis](https://github.com/dinu2oo6/skin-disease-analysis)** · `Python` | deep learning on dermatological images |
+| `04` | **[cafemanager](https://github.com/dinu2oo6/cafemanager)** · `Swift` | native iOS, no model involved, still fun |
 
 ---
 
 <div align="center">
 
-### ◈ &nbsp;Signal&nbsp; ◈
+### ◈ &nbsp;Contribution Snake&nbsp; ◈
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinu2oo6/dinu2oo6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinu2oo6/dinu2oo6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dinu2oo6/dinu2oo6/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub><i>generated with <a href="https://github.com/Platane/snk">Platane/snk</a></i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### ◈ &nbsp;Numbers&nbsp; ◈
 
 <br>
 
@@ -143,13 +140,9 @@ The unglamorous half: APIs, pipelines, and interfaces that put a model in someon
 
 <div align="center">
 
-<sub>
+<sub>no roadmap, just curiosity. say hi if you're building something weird.</sub>
 
-**"Attention is all you need."** — and a decade of stubbornness.
-
-</sub>
-
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=dinu2oo6&style=flat-square&color=0B0B0B&label=VISITORS" alt="views" />
 
