@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&pause=1500&color=8B949E&center=true&vCenter=true&width=740&height=45&lines=hey%2C+I'm+Dinesh;AI+enthusiast%2C+mostly;new+tech+drops+%E2%86%92+I'm+already+cloning+the+repo" alt="hey, I'm Dinesh" />
 
-<sub>`ATTENTION` · `X`</sub>
+<sub>`ATTENTIONX LABS`</sub>
 
 <br>
 
@@ -22,17 +22,6 @@ I got into AI because it looked like magic. Turned out to be math, and I stayed 
 
 Most weeks I'm reading a paper I only half understand, then trying to build a small version of it before the hype moves on. I don't have a single niche — if it's new and it learns something, I'm probably already messing with it.
 
-**Into**
-
-- 🧠 anything that learns
-- 🤖 agents, memory, retrieval
-- 👁️ computer vision
-- 📄 papers I have to re-read twice
-- 🧪 tiny weekend prototypes
-- 🌙 loss curves at 2am
-- ☕ frameworks I absolutely do not need
-
-**I use**
 
 `python` · `pytorch` · `c` · `c++` · `typescript`
 `fastapi` · `next.js` · `docker` · `supabase`
