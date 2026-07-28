@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="56%">
 
 <sub>`●` `●` `●` &nbsp;&nbsp; dinesh@attentionx — zsh</sub>
 
@@ -25,9 +25,9 @@
 `python` · `pytorch` · `c` · `c++` · `typescript` · `fastapi` · `next.js` · `docker`
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="44%">
 
-<img src="assets/simpsons.gif" width="100%" alt="simpsons" />
+<img src="assets/simpsons.gif" width="100%" alt="bart walks, then leaves" />
 
 </td>
 </tr>
