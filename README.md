@@ -16,24 +16,16 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="60%">
 
-I got into AI because it looked like magic. Turned out to be math, and I stayed anyway.
+<sub>`●` `●` `●` &nbsp;&nbsp; dinesh@attentionx — zsh</sub>
 
-Most weeks I'm reading a paper I only half understand, then trying to build a small version of it before the hype moves on. I don't have a single niche — if it's new and it learns something, I'm probably already messing with it.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=16&pause=900&color=8B949E&multiline=true&repeat=true&width=560&height=270&lines=%24%20whoami;%3E%20AI%20enthusiast.%20mostly.;%3E%20got%20into%20it%20because%20it%20looked%20like%20magic;%3E%20turned%20out%20to%20be%20math.%20stayed%20anyway.;;%24%20cat%20now.txt;%3E%20agents%20that%20keep%20a%20plan%2C%20not%20a%20guess;%3E%20papers%20I%20only%20half%20understand%20(yet);%3E%20whatever%20new%20thing%20dropped%20this%20week" alt="terminal" width="100%" />
 
-
-`python` · `pytorch` · `c` · `c++` · `typescript`
-`fastapi` · `next.js` · `docker` · `supabase`
-
-**Currently poking at**
-
-- agent stacks that keep a plan instead of guessing
-- putting a model somewhere it's actually useful
-- whatever dropped this week
+`python` · `pytorch` · `c` · `c++` · `typescript` · `fastapi` · `next.js` · `docker`
 
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="40%">
 
 <img src="assets/simpsons.gif" width="100%" alt="simpsons" />
 
@@ -81,21 +73,6 @@ Most weeks I'm reading a paper I only half understand, then trying to build a sm
 
 <div align="center">
 
-### ◈ &nbsp;Stuff I've Built&nbsp; ◈
-
-</div>
-
-| | Project | |
-|:--|:--|:--|
-| `01` | **[singularity-1](https://github.com/dinu2oo6/singularity-1)** · `TypeScript` | agent stack — reasoning, memory, tools |
-| `02` | **[campusruleai](https://github.com/dinu2oo6/campusruleai)** · `Python` | an LLM that actually knows the rulebook |
-| `03` | **[skin-disease-analysis](https://github.com/dinu2oo6/skin-disease-analysis)** · `Python` | deep learning on dermatological images |
-| `04` | **[cafemanager](https://github.com/dinu2oo6/cafemanager)** · `Swift` | native iOS, no model involved, still fun |
-
----
-
-<div align="center">
-
 ### ◈ &nbsp;Contribution Snake&nbsp; ◈
 
 <picture>
@@ -105,23 +82,6 @@ Most weeks I'm reading a paper I only half understand, then trying to build a sm
 </picture>
 
 <sub><i>generated with <a href="https://github.com/Platane/snk">Platane/snk</a></i></sub>
-
-</div>
-
----
-
-<div align="center">
-
-### ◈ &nbsp;Numbers&nbsp; ◈
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dinu2oo6&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0D1117&icon_color=FFFFFF&text_color=8B949E&ring_color=FFFFFF" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinu2oo6&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=dinu2oo6&hide_border=true&background=0D1117&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=8B949E&dates=6E7681" alt="streak" />
 
 </div>
 
